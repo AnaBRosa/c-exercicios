@@ -1,2 +1,2 @@
 # c-exercicios
-Exercícios da matéria de: Linguagem e técnicas de programação
+Exercícios da matéria de: Linguagem e técnicas de programação desenvolvidos no CLion.
