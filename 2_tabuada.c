@@ -10,7 +10,7 @@ int main(void) {
     if (multiplicando < 1 || multiplicando > 10) {
         printf("Tabuada desejada indisponivel");
     } else {
-        for (multiplicador = 0; multiplicador <= 10; multiplicador = multiplicador + 1) {
+        for (multiplicador = 0; multiplicador <= 10; multiplicador ++) {
             printf("%d x %d = %d\n", multiplicando, multiplicador, multiplicando * multiplicador);
         }
     }
